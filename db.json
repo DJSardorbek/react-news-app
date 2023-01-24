@@ -1,0 +1,56 @@
+{
+  "news": [
+    {
+      "id": 1674589605454,
+      "name": "Sardorbek",
+      "description": "Global warming Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics",
+      "category": "Sport"
+    },
+    {
+      "id": 1674589622550,
+      "name": "Habibullo",
+      "description": "Global warming Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics",
+      "category": "Hot"
+    },
+    {
+      "id": 1674589651017,
+      "name": "My first news",
+      "description": "Global warming Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics",
+      "category": "World"
+    },
+    {
+      "id": 1674596673985,
+      "name": "Shohsanam",
+      "description": "Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics",
+      "category": "Sport"
+    },
+    {
+      "id": 1674597331624,
+      "name": "Shohsanam",
+      "description": "StrictMode. findDOMNode was passed an instance of Transition which is inside StrictMode. Instead, add a ref directly to the element you want to reference. Learn more about using refs safely here: ",
+      "category": "World"
+    }
+  ],
+  "filters": [
+    {
+      "name": "All",
+      "label": "All",
+      "classname": "btn-outline-dark"
+    },
+    {
+      "name": "Hot",
+      "label": "Hot",
+      "classname": "btn-outline-danger"
+    },
+    {
+      "name": "Sport",
+      "label": "Sport",
+      "classname": "btn-outline-primary"
+    },
+    {
+      "name": "World",
+      "label": "World",
+      "classname": "btn-outline-success"
+    }
+  ]
+}
