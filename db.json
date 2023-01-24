@@ -1,34 +1,28 @@
 {
   "news": [
     {
-      "id": 1674589605454,
-      "name": "Sardorbek",
-      "description": "Global warming Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics",
-      "category": "Sport"
-    },
-    {
-      "id": 1674589622550,
-      "name": "Habibullo",
-      "description": "Global warming Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics",
+      "id": 1674598151750,
+      "name": "Oscar nominations 2023",
+      "description": "Oscar nominations 2023: Key takeaways and the full list of nominees",
       "category": "Hot"
     },
     {
-      "id": 1674589651017,
-      "name": "My first news",
-      "description": "Global warming Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics",
+      "id": 1674598234345,
+      "name": "Scientists claim",
+      "description": "Scientists claim Earth’s inner core has reversed its direction of spin",
       "category": "World"
     },
     {
-      "id": 1674596673985,
-      "name": "Shohsanam",
-      "description": "Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics",
+      "id": 1674598296295,
+      "name": "German media",
+      "description": "German media reports government has approved sending Leopard 2 tanks to Ukraine",
+      "category": "Hot"
+    },
+    {
+      "id": 1674598389865,
+      "name": "Guardiola regret",
+      "description": "Who might Guardiola regret letting go? Garth Crooks' Team of the Week",
       "category": "Sport"
-    },
-    {
-      "id": 1674597331624,
-      "name": "Shohsanam",
-      "description": "StrictMode. findDOMNode was passed an instance of Transition which is inside StrictMode. Instead, add a ref directly to the element you want to reference. Learn more about using refs safely here: ",
-      "category": "World"
     }
   ],
   "filters": [
